@@ -6,7 +6,7 @@ depends on: Image, Colr, numpy
 from PIL import Image, ImageDraw
 from colr import Colr as C
 import numpy as np
-import sys, argparse, random
+import sys, argparse
 
 '''
 average tile brightness
