@@ -3,13 +3,13 @@ Just little funny project
 ## Setup requirements:
 **Python 3.+**
 ```bash
-sudo pip install Colr
+sudo pip install Image Colr numpy
 ```
 **Or**
 ```bash
-sudo python -m pip install Colr
+sudo python -m pip install Image Colr numpy
 ```
 ## Usage:
 ```bash
-python main.py [image.jpg]
+python main.py [--cols=<width>] <image.jpg>
 ```
