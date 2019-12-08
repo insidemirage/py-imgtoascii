@@ -15,4 +15,4 @@ python main.py [--cols=<width>] <image.jpg>
 ```
 
 ## Example
-[Uta image](http://i.imgur.com/n2MZphv.png)
+[Uta image](https://i.ibb.co/0sf6LkP/n2MZphv.png)
