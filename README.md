@@ -13,3 +13,6 @@ sudo python -m pip install Image Colr numpy
 ```bash
 python main.py [--cols=<width>] <image.jpg>
 ```
+
+## Example
+[Uta image](http://i.imgur.com/n2MZphv.png)
