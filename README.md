@@ -14,5 +14,6 @@ sudo python -m pip install Image Colr numpy
 python main.py [--cols=<width>] <image.jpg>
 ```
 
-## Example
-[Uta image](https://i.ibb.co/0sf6LkP/n2MZphv.png)
+## Examples:
+![Uta](/screens/1.png?raw=true "Uta Tokyo Ghoul")
+![Kurisu](/screens/2.png?raw=true "Kurisu Makise Steins Gate")
